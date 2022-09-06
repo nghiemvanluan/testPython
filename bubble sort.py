@@ -1,3 +1,4 @@
+
 def bubble_sort(arr):
     def swap(a, b):
         arr[a], arr[b] = arr[b], arr[a]
