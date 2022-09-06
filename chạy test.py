@@ -1,8 +1,8 @@
 res = []
 
-lengths = int(input())
+leng = int(input())
 
-for i in range(lengths):
+for i in range(leng):
     n = int(input())
     res.append(n)
 
